@@ -1,0 +1,43 @@
+Timestamp: 25-06-2025 18:00:00
+CPU Usage:
+%Cpu(s): 11.5 us, 11.5 sy,  0.0 ni, 73.1 id,  0.0 wa,  3.8 hi,  0.0 si,  0.0 st 
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            3888        2065         213          71        1858        1822
+------------------------------
+Timestamp: 25-06-2025 20:00:00
+CPU Usage:
+%Cpu(s):  0.0 us,  8.7 sy,  0.0 ni, 91.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            3888        1493         177          23        2398        2395
+------------------------------
+
+Timestamp: 26-06-2025 12:00:00
+CPU Usage:
+%Cpu(s):  3.6 us,  3.6 sy,  0.0 ni, 92.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            3888        1486         513          54        2104        2402
+------------------------------
+Timestamp: 26-06-2025 13:00:00
+CPU Usage:
+%Cpu(s):  4.2 us,  4.2 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            3888        1104         553          11        2398        2783
+------------------------------
+Timestamp: 26-06-2025 14:00:00
+CPU Usage:
+%Cpu(s):  8.0 us,  8.0 sy,  0.0 ni, 80.0 id,  0.0 wa,  4.0 hi,  0.0 si,  0.0 st 
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            3888        1192         433          26        2446        2695
+------------------------------
+Timestamp: 26-06-2025 15:00:00
+CPU Usage:
+%Cpu(s):  4.5 us,  4.5 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            3888        1458         194          44        2439        2430
+------------------------------
