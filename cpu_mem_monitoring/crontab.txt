@@ -1,1 +1,2 @@
-0 * * * * /home/narek/taskdir/cpu_mem_info.sh
+0 * * * * find $HOME -path "$HOME/cpu_mem_monitoring/cpu_mem_info.sh" -exec bash {} \;
+
